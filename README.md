@@ -1,2 +1,2 @@
-# goit-markup-hw-02 
- Repository for HW2
+# goit-markup-hw-03 
+ Repository for HW3
